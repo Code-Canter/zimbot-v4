@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/zim-bot/zimbot-v4
+RUN git clone https://github.com/Code-Canter/zimbot-v4
 
 WORKDIR /Drips/Zimbotv4
 
